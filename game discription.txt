@@ -1,0 +1,18 @@
+Game name:jungle eagle
+Game discription:jungle Eagle is a game of hunting.Here the eagle has broad wings and great movement of wings.
+                 Eagle has to catch the little chickens inorder to saticify its hungry.
+                 In this game we can have wide varity of levels in hunting.In each level 
+                 we can face different arrangements of little chickens viewd by the gamer,
+                 and without any confusion the gamer has to hunt the little chickens.
+                 The gamer can have the facility of timing,along with the level indicater.
+                  so each level should be complete with in the time slot given. 
+Game instructions:LEFT  & RIGHT ARROWS  - MOVE LEFT  & RIGHT
+Game controls: keyboard
+
+keywords with camas: Bald Eagle, hen, forest, eggs, hunt, kill, hurt, pikup, trees, timer, catch, 
+Keyword with spaces:
+Game dimentions:
+Game swf url:
+Game thumbnail url:
+Game rate:
+Game genre:
